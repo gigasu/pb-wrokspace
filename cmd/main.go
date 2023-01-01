@@ -10,4 +10,7 @@ func main() {
 
 	a := pb_api_gateway.GetApi()
 	fmt.Println(a)
+
+	b := pb_api_gateway.GetAPi2()
+	fmt.Println(b)
 }
